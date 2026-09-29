@@ -1,0 +1,30 @@
+# Java / compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+build/
+dist/
+target/
+out/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
