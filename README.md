@@ -92,6 +92,3 @@ Los archivos generados por compilación y la configuración privada de los IDE n
 - `.idea/`
 - archivos específicos del sistema operativo
 
-## Autor
-
-Repositorio mantenido por [Nico3246](https://github.com/Nico3246).
